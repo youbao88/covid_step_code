@@ -1,2 +1,2 @@
-# covid_step_code
-This is the repo for the paper: 
+# The influence of the COVID-19 pandemic on physical activity in Stockholm County - evidence from time series models of smartphone measured daily steps data spanning over 3 years 
+This is the code repository for the paper.
